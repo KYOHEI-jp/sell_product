@@ -1,0 +1,182 @@
+[
+  {
+    "id": "001",
+    "name": "Tatami Fightwear Nova Mk4 柔術衣",
+    "description": "トレーニングから試合まで対応する軽量・耐久性に優れたBJJ道衣。Nova Mk4は縮みにくいプリシュランク生地と、負荷のかかる部位への強化縫製が特徴。",
+    "pros": [
+      "軽量350gsmパール織り",
+      "プリシュランク加工で洗濯後の縮みが少ない",
+      "IBJJF公認",
+      "カラーバリエーションが豊富"
+    ],
+    "cons": [
+      "やや細身のシルエット",
+      "道衣の襟が馴染むまで時間がかかる"
+    ],
+    "image_url": "https://example.com/images/tatami-nova-mk4.jpg",
+    "affiliate_url": "https://example.com/affiliate/tatami-nova-mk4",
+    "category": "道衣"
+  },
+  {
+    "id": "002",
+    "name": "Hayabusa T3 ボクシンググローブ",
+    "description": "打撃・スパーリング向けのプレミアムトレーニンググローブ。手首サポートと耐久性に優れ、本格派グラップラーに支持されている。",
+    "pros": [
+      "デュアルXクロージャーで手首を強固にサポート",
+      "多層フォームで衝撃吸収",
+      "抗菌ライニング搭載",
+      "サンドバッグ・ミット打ちに最適"
+    ],
+    "cons": [
+      "価格がやや高め",
+      "ハードな使用でベルクロが劣化しやすい"
+    ],
+    "image_url": "https://example.com/images/hayabusa-t3.jpg",
+    "affiliate_url": "https://example.com/affiliate/hayabusa-t3",
+    "category": "グローブ"
+  },
+  {
+    "id": "003",
+    "name": "Sanabul エッセンシャルラッシュガード",
+    "description": "ノーギBJJやMMAトレーニング向けの高機能コンプレッションラッシュガード。吸湿速乾素材で激しいローリング中も快適さをキープ。",
+    "pros": [
+      "リーズナブルな価格",
+      "4方向ストレッチ素材",
+      "フラットロックステッチで肌への摩擦を軽減",
+      "長袖・半袖から選べる"
+    ],
+    "cons": [
+      "洗濯を繰り返すと色落ちする場合がある",
+      "サイズが大きめの傾向"
+    ],
+    "image_url": "https://example.com/images/sanabul-rashguard.jpg",
+    "affiliate_url": "https://example.com/affiliate/sanabul-rashguard",
+    "category": "ラッシュガード"
+  },
+  {
+    "id": "004",
+    "name": "Venum チャレンジャー ノーギショーツ",
+    "description": "激しいノーギトレーニングのために設計された耐久性と柔軟性を兼ね備えたグラップリングショーツ。ベルクロなしのウエストバンドでスムーズな練習が可能。",
+    "pros": [
+      "ベルクロなしデザインで相手を傷つけない",
+      "100%ポリエステルで速乾性あり",
+      "ゴム+ドローストリングウエスト",
+      "縫い目が補強されていて耐久性が高い"
+    ],
+    "cons": [
+      "カラーバリエーションが少ない",
+      "ポケットがマウスガードを入れるには小さい"
+    ],
+    "image_url": "https://example.com/images/venum-challenger-shorts.jpg",
+    "affiliate_url": "https://example.com/affiliate/venum-challenger-shorts",
+    "category": "ショーツ"
+  },
+  {
+    "id": "005",
+    "name": "Fuji Sports サマーウェイト柔術衣",
+    "description": "暑い気候や夏のトレーニングに最適な超軽量BJJ道衣。耐久性を犠牲にせず優れた通気性を実現。",
+    "pros": [
+      "超軽量280gsm",
+      "通気性が非常に高い",
+      "IBJJF公認",
+      "コストパフォーマンスが高い"
+    ],
+    "cons": [
+      "重い道衣より耐久性が低い",
+      "カラーが少ない"
+    ],
+    "image_url": "https://example.com/images/fuji-summerweight.jpg",
+    "affiliate_url": "https://example.com/affiliate/fuji-summerweight",
+    "category": "道衣"
+  },
+  {
+    "id": "006",
+    "name": "RDX ゲルナックルプロテクター バンテージ",
+    "description": "ナックル部分にゲルパッドを内蔵した伸縮性バンテージ。サンドバッグやスパーリング中の拳をしっかり保護する。",
+    "pros": [
+      "ナックル部にゲルパッド内蔵",
+      "着脱が簡単",
+      "洗濯機で洗える",
+      "手首サポートも優秀"
+    ],
+    "cons": [
+      "通常のバンテージより巻き方の調整が難しい",
+      "長期使用でゲルパッドが圧縮される"
+    ],
+    "image_url": "https://example.com/images/rdx-hand-wraps.jpg",
+    "affiliate_url": "https://example.com/affiliate/rdx-hand-wraps",
+    "category": "アクセサリー"
+  },
+  {
+    "id": "007",
+    "name": "Scramble アスリート2 ショーツ",
+    "description": "グラップラーのために作られたブランドによるハイエンドノーギショーツ。スリムなアスレチックカットとプレミアム素材で過酷なトレーニングにも耐える。",
+    "pros": [
+      "プレミアムストレッチ素材",
+      "スリムなアスレチックフィット",
+      "ベルクロなしで相手に安全",
+      "高い耐久性"
+    ],
+    "cons": [
+      "ショーツとしては価格が高め",
+      "サイズ展開がやや狭い"
+    ],
+    "image_url": "https://example.com/images/scramble-athlete2.jpg",
+    "affiliate_url": "https://example.com/affiliate/scramble-athlete2",
+    "category": "ショーツ"
+  },
+  {
+    "id": "008",
+    "name": "Shock Doctor ゲルマックス マウスガード",
+    "description": "BJJやコンタクトスポーツに最適なゲルフィットマウスガード。お湯で形成するボイル&バイト式でカスタムフィットを実現。",
+    "pros": [
+      "ボイル&バイトでカスタムフィット",
+      "コンバーチブルストラップ付属",
+      "通気性の良いデザイン",
+      "リーズナブルな価格"
+    ],
+    "cons": [
+      "ローリング中にストラップが邪魔になることがある",
+      "最初は違和感を感じる場合がある"
+    ],
+    "image_url": "https://example.com/images/shock-doctor-mouthguard.jpg",
+    "affiliate_url": "https://example.com/affiliate/shock-doctor-mouthguard",
+    "category": "アクセサリー"
+  },
+  {
+    "id": "009",
+    "name": "Gold BJJ ファンデーション スパッツ",
+    "description": "グラップリング専用に設計されたコンプレッションスパッツ。ノーギトレーニング中のマット擦れを軽減し、ずれにくい設計。",
+    "pros": [
+      "ウエストバンドにシリコングリップ搭載",
+      "4方向ストレッチ",
+      "マット擦れを軽減",
+      "フラットロックステッチ"
+    ],
+    "cons": [
+      "一般的なコンプレッションタイツより価格が高い",
+      "カラーバリエーションが少ない"
+    ],
+    "image_url": "https://example.com/images/gold-bjj-spats.jpg",
+    "affiliate_url": "https://example.com/affiliate/gold-bjj-spats",
+    "category": "スパッツ"
+  },
+  {
+    "id": "010",
+    "name": "Perform Better スーパーバンド レジスタンスバンド",
+    "description": "BJJの筋力・体力トレーニングに最適なヘビーデューティーレジスタンスバンド。股関節・肩のウォームアップや懸垂のアシストにも活躍。",
+    "pros": [
+      "複数の負荷レベルから選べる",
+      "耐久性の高いラテックス素材",
+      "ウォームアップから筋力トレーニングまで多用途",
+      "コンパクトで持ち運びやすい"
+    ],
+    "cons": [
+      "使用中に肌の上でずれることがある",
+      "過度に伸ばすと切れる恐れがある"
+    ],
+    "image_url": "https://example.com/images/perform-better-superband.jpg",
+    "affiliate_url": "https://example.com/affiliate/perform-better-superband",
+    "category": "フィットネス"
+  }
+]
