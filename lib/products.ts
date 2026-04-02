@@ -2,6 +2,7 @@ import productsData from '../data/products.json'
 
 export type Product = {
   id: string
+  slug: string
   name: string
   description: string
   pros: string[]
@@ -11,14 +12,11 @@ export type Product = {
   category: string
 }
 
-export function getAllProducts(): Product[] {
+export async function getProducts(): Promise<Product[]> {
   return productsData as Product[]
 }
 
-export function getProductBySlug(slug: string): Product | undefined {
-  return productsData.find((p) => p.id === slug) as Product | undefined
-}
-
-export function getAllSlugs(): string[] {
-  return productsData.map((p) => p.id)
+export async function getProductBySlug(slug: string): Promise<Product | undefined> {
+  const products = await getProducts()
+  return products.find((p) => p.slug === slug)
 }

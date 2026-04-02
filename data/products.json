@@ -15,7 +15,8 @@
     ],
     "image_url": "https://example.com/images/tatami-nova-mk4.jpg",
     "affiliate_url": "https://example.com/affiliate/tatami-nova-mk4",
-    "category": "道衣"
+    "category": "道衣",
+    "slug": "tatami-fightwear-nova-mk4-柔術衣"
   },
   {
     "id": "002",
@@ -33,7 +34,8 @@
     ],
     "image_url": "https://example.com/images/hayabusa-t3.jpg",
     "affiliate_url": "https://example.com/affiliate/hayabusa-t3",
-    "category": "グローブ"
+    "category": "グローブ",
+    "slug": "hayabusa-t3-ボクシンググローブ"
   },
   {
     "id": "003",
@@ -51,7 +53,8 @@
     ],
     "image_url": "https://example.com/images/sanabul-rashguard.jpg",
     "affiliate_url": "https://example.com/affiliate/sanabul-rashguard",
-    "category": "ラッシュガード"
+    "category": "ラッシュガード",
+    "slug": "sanabul-エッセンシャルラッシュガード"
   },
   {
     "id": "004",
@@ -69,7 +72,8 @@
     ],
     "image_url": "https://example.com/images/venum-challenger-shorts.jpg",
     "affiliate_url": "https://example.com/affiliate/venum-challenger-shorts",
-    "category": "ショーツ"
+    "category": "ショーツ",
+    "slug": "venum-チャレンジャー-ノーギショーツ"
   },
   {
     "id": "005",
@@ -87,7 +91,8 @@
     ],
     "image_url": "https://example.com/images/fuji-summerweight.jpg",
     "affiliate_url": "https://example.com/affiliate/fuji-summerweight",
-    "category": "道衣"
+    "category": "道衣",
+    "slug": "fuji-sports-サマーウェイト柔術衣"
   },
   {
     "id": "006",
@@ -105,7 +110,8 @@
     ],
     "image_url": "https://example.com/images/rdx-hand-wraps.jpg",
     "affiliate_url": "https://example.com/affiliate/rdx-hand-wraps",
-    "category": "アクセサリー"
+    "category": "アクセサリー",
+    "slug": "rdx-ゲルナックルプロテクター-バンテージ"
   },
   {
     "id": "007",
@@ -123,7 +129,8 @@
     ],
     "image_url": "https://example.com/images/scramble-athlete2.jpg",
     "affiliate_url": "https://example.com/affiliate/scramble-athlete2",
-    "category": "ショーツ"
+    "category": "ショーツ",
+    "slug": "scramble-アスリート2-ショーツ"
   },
   {
     "id": "008",
@@ -141,7 +148,8 @@
     ],
     "image_url": "https://example.com/images/shock-doctor-mouthguard.jpg",
     "affiliate_url": "https://example.com/affiliate/shock-doctor-mouthguard",
-    "category": "アクセサリー"
+    "category": "アクセサリー",
+    "slug": "shock-doctor-ゲルマックス-マウスガード"
   },
   {
     "id": "009",
@@ -159,7 +167,8 @@
     ],
     "image_url": "https://example.com/images/gold-bjj-spats.jpg",
     "affiliate_url": "https://example.com/affiliate/gold-bjj-spats",
-    "category": "スパッツ"
+    "category": "スパッツ",
+    "slug": "gold-bjj-ファンデーション-スパッツ"
   },
   {
     "id": "010",
@@ -177,6 +186,7 @@
     ],
     "image_url": "https://example.com/images/perform-better-superband.jpg",
     "affiliate_url": "https://example.com/affiliate/perform-better-superband",
-    "category": "フィットネス"
+    "category": "フィットネス",
+    "slug": "perform-better-スーパーバンド-レジスタンスバンド"
   }
 ]

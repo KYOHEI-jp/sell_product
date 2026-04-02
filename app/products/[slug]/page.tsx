@@ -1,16 +1,19 @@
-import { getAllSlugs, getProductBySlug } from '@/lib/products'
+import { getProducts, getProductBySlug } from '@/lib/products'
 import { notFound } from 'next/navigation'
 
 type Props = {
   params: { slug: string }
 }
 
-export function generateStaticParams() {
-  return getAllSlugs().map((slug) => ({ slug }))
+export async function generateStaticParams() {
+  const products = await getProducts()
+  return products.map((p) => ({
+    slug: p.slug,
+  }))
 }
 
-export default function ProductPage({ params }: Props) {
-  const product = getProductBySlug(params.slug)
+export default async function ProductPage({ params }: Props) {
+  const product = await getProductBySlug(params.slug)
 
   if (!product) notFound()
 

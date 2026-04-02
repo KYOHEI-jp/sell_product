@@ -1,5 +1,12 @@
 import json
 import os
+import re
+
+def to_slug(name: str) -> str:
+    # 英数字とスペースのみ残してケバブケースに変換
+    name = re.sub(r'[^\w\s-]', '', name)
+    name = re.sub(r'[\s_]+', '-', name.strip())
+    return name.lower()
 
 products = [
     {
@@ -106,6 +113,9 @@ products = [
 
 output_path = os.path.join(os.path.dirname(__file__), "..", "data", "products.json")
 output_path = os.path.normpath(output_path)
+
+for p in products:
+    p["slug"] = to_slug(p["name"])
 
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(products, f, indent=2, ensure_ascii=False)
